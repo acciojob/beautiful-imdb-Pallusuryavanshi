@@ -1,2 +1,14 @@
-
 /* Your CSS Code here. */
+.moviePic{
+	width: 100px;
+	height:100px;
+	opacity:1;
+}
+.moveiDetail{
+	position:static;
+	width:100px;
+	text-align:center;
+	font-size:13px;
+}
+
+
